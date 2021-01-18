@@ -14,9 +14,19 @@ p {
   display: inline;
 }
 
-h1 {
+header h1 {
   font-size: 20px;
   font-weight: 400;
+  color: #fd7e14;
+}
+
+a {
+  color: #fd7e14;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 footer {

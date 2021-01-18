@@ -14,21 +14,17 @@ export default function App() {
   return (
     <div className="App">
       <Header>
-        <div>
-          <select
-            style={{ height: "26px" }}
-            onChange={(event) =>
-              setSelectedExerciseId(event.currentTarget.value)
-            }
-            value={selectedExerciseId}
-          >
-            {Object.keys(exercises).map((exerciseId) => (
-              <option key={exerciseId} value={exerciseId}>
-                {exerciseId}
-              </option>
-            ))}
-          </select>
-        </div>
+        <select
+          style={{ height: "26px" }}
+          onChange={(event) => setSelectedExerciseId(event.currentTarget.value)}
+          value={selectedExerciseId}
+        >
+          {Object.keys(exercises).map((exerciseId) => (
+            <option key={exerciseId} value={exerciseId}>
+              {exerciseId}
+            </option>
+          ))}
+        </select>
       </Header>
 
       <div
@@ -49,7 +45,7 @@ export default function App() {
 
 function Header({ children }) {
   return (
-    <div
+    <header
       style={{
         padding: "5px",
         margin: "15px"
@@ -66,7 +62,7 @@ function Header({ children }) {
         </div>
         <div>{children}</div>
       </div>
-    </div>
+    </header>
   );
 }
 
