@@ -4,7 +4,7 @@
 
 Today we are going to create a Giphy search engine! 💯
 
-We'll cover the following:
+We'll cover the following topics:
 
 - Function components
 - Props
@@ -14,4 +14,6 @@ We'll cover the following:
 
 ## Getting Started
 
-1. Click the CodeSandbox link
+1. Open the following CodeSandbox: https://codesandbox.io/s/github/bouwe77/labehub-react-foundation-workshop
+
+2. Please find the exercices in the `src` folder.
