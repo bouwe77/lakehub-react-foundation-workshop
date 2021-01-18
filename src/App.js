@@ -29,7 +29,7 @@ export default function App() {
 
       <div
         style={{
-          padding: "30px",
+          padding: "15px",
           margin: "15px",
           border: "1px solid #ccc",
           minHeight: "200px"
