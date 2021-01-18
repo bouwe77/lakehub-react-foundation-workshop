@@ -13,3 +13,5 @@ export default function App() {
 /* [01] - Create a new function component named `HelloComponent`. */
 /* [02] - Let the `HelloComponent` render the text "Hello", rendered in a div element. */
 /* [05] - Let your component receive the `name` prop en render it after "Hello". */
+
+/* [xx] - FINISHED! 💯  You should see ... ... ...*/

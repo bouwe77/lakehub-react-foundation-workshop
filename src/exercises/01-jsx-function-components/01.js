@@ -8,3 +8,5 @@ export default function App() {
   /* [03] - Replace the "Exercise 1" heading by the `text` variable that is defined above. */
   return <div>Exercise 1</div>;
 }
+
+/* [xx] - FINISHED! 💯  You should see ... ... ...*/
