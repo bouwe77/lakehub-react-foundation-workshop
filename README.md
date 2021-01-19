@@ -18,4 +18,4 @@ In this workshop we'll cover the following topics:
 
 1. Open the following CodeSandbox: https://codesandbox.io/s/github/bouwe77/labehub-react-foundation-workshop
 
-2. Please find the exercices in the `src/exercises` folder.
+2. Please find the exercises in the `src/exercises` folder.
