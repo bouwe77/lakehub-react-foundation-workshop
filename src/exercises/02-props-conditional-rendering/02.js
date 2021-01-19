@@ -1,5 +1,14 @@
 import React from "react";
 
+/* 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                                                             +
++                 This exercise isn't ready yet:              +
++                    * add conditional rendering!             +
++                                                             +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+*/
+
 export default function App() {
   return (
     <>
