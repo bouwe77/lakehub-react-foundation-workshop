@@ -1,3 +1,49 @@
+/* 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                                                             +
++                    ┬ ┬┌─┐┬  ┌─┐┌─┐┌┬┐┌─┐                    +
++                    │││├┤ │  │  │ ││││├┤                     +
++                    └┴┘└─┘┴─┘└─┘└─┘┴ ┴└─┘                    +
++                                                             +
++     You'll find the exercises in the `exercises` folder     +
++                                                             +
++                   Good luck and have fun!                   +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++                                                             +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+*/
+
+// Please do not change the code below
+
 import React from "react";
 import "./styles.css";
 import createPersistedState from "use-persisted-state";
