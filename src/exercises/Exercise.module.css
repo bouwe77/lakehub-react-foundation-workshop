@@ -8,3 +8,12 @@
 .counter {
   font-size: 60px;
 }
+
+.panel {
+  border-radius: 15px 50px;
+  width: 300px;
+  padding: 20px 0px 20px 20px;
+  margin: 10px;
+  background: #73ad21;
+  color: white;
+}
