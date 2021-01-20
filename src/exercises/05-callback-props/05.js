@@ -1,14 +1,8 @@
-import React from "react";
-
-/* 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-+                                                             +
-+                 This exercise isn't ready yet               +
-+                                                             +
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-*/
+import React, { useState } from "react";
 
 export default function App() {
+  const [text, setText] = useState();
+
   return (
     <>
       <h1>Exercise 5</h1>

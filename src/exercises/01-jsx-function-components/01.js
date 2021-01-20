@@ -5,7 +5,7 @@ export default function App() {
 
   /* [01] - Emphasize the "Exercise 1" text below a bit more by wrapping it in a Heading 1 element. */
   /* [02] - Replace the div element by a React Fragment. */
-  /* [03] - Replace the "Exercise 1" heading by the `text` variable that is defined above. */
+  /* [03] - After the heading, add a div element that wraps the `text` variable. */
   return <div>Exercise 1</div>;
 }
 

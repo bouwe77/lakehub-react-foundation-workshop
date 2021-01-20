@@ -11,7 +11,7 @@ In this workshop we'll cover the following topics:
 - The `useSate` hook
 - Derived state
 - Callback props
-- Children prop
+- The `children` prop
 - The `useEffect` hook
 
 ## Getting Started

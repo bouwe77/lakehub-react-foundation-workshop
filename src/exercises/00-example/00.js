@@ -1,5 +1,12 @@
 import React from "react";
 
+/* 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ ABOUT THIS EXERCISE                                                     +
++ This is just an example which I use to show you how the exercises work. +                                             +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+*/
+
 /* [01] - Create a function component named `App`. */
 
 /* [02] - Make the `App` function return a JSX div containing a text you like. */
