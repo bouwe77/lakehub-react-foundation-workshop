@@ -1,6 +1,13 @@
 import React from "react";
 import styles from "../Exercise.module.css";
 
+/*
+┌─┐┬  ┌─┐┌─┐┌─┐┌─┐  ┌┬┐┌─┐  ┌┐┌┌─┐┌┬┐  ┬ ┬┌─┐┌─┐  ┬ ┬┌─┐┌┬┐
+├─┘│  ├┤ ├─┤└─┐├┤    │││ │  ││││ │ │   │ │└─┐├┤   └┬┘├┤  │ 
+┴  ┴─┘└─┘┴ ┴└─┘└─┘  ─┴┘└─┘  ┘└┘└─┘ ┴   └─┘└─┘└─┘   ┴ └─┘ ┴ 
+This is still under construction...
+*/
+
 /* 🌟 [00] - In this exercise we'll build an app that displays
       a green panel that can contain any sort of content using
       the children prop. */
