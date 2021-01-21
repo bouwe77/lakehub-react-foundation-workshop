@@ -3,8 +3,8 @@ import Exercise01 from "./01-jsx-function-components/01";
 import Exercise02 from "./02-props-conditional-rendering/02";
 import Exercise03 from "./03-useState/03";
 import Exercise04 from "./04-derived-state/04";
-import Exercise05 from "./05-callback-props/05";
-import Exercise06 from "./06-children-prop/06";
+import Exercise05 from "./05-children-prop/05";
+import Exercise06 from "./06-callback-props/06";
 import Exercise07 from "./07-useEffect/07";
 
 export default {
