@@ -23,14 +23,14 @@ In this workshop we'll cover the following topics:
 
 ## Getting Started
 
-1. Open the following CodeSandbox: https://codesandbox.io/s/github/bouwe77/lakehub-react-foundation-workshop
+1. Open the following CodeSandbox: ...
 
 2. Please find the exercises in the `src/exercises` folder.
 
 3. Start with the first exercise, `01-jsx-function-components`, and follow
    the instructions in code comments from 01, 02, etc. Example:
 
-`/* [01] - Create a React function component named "App". */`
+`/* 🌟 [01] - Create a React function component named "App". */`
 
 4. It's up to you whether or not you'll remove these comments as soon as they are done.
 
