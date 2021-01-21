@@ -1,5 +1,8 @@
 import React from "react";
 
+/* 🌟 [00] - In this exercise we'll build an app that ... 
+     ... ... using callback props. */
+
 export default function App() {
   return (
     <>
@@ -8,4 +11,4 @@ export default function App() {
   );
 }
 
-/* [xx] - FINISHED! 💯  You should ... ... ... 💯 */
+/* 🌟 [xx] - FINISHED! 💯  You should ... ... ... 💯 */
