@@ -35,5 +35,5 @@ function Panel() {
 
 /* 🌟 [04] - You could also put multiple elements or components inside the Panel - Experiment with that! */
 
-/* 🌟 [05] - FINISHED! 💯  You have successfully experimented with the children prop */
-/* and saw this is a nice way to create reusable UI components that contain anything! 💯 */
+/* 🌟 [05] - FINISHED! 💯  You have successfully experimented with the children prop 
+   and saw this is a nice way to create reusable UI components that contain anything! 💯 */

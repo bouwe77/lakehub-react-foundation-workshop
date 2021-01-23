@@ -17,3 +17,11 @@
   background: #73ad21;
   color: white;
 }
+
+.panel-2 {
+  border: 1px solid #ccc;
+  width: 300px;
+  height: auto;
+  margin: 30px auto;
+  padding: 10px;
+}

@@ -13,7 +13,7 @@ export default {
   "02 - Props and conditional rendering": Exercise02,
   "03 - useState hook": Exercise03,
   "04 - Derived state": Exercise04,
-  "05 - Callback props": Exercise05,
-  "06 - Children prop": Exercise06,
+  "05 - children prop": Exercise05,
+  "06 - Callback props": Exercise06,
   "07 - useEffect hook": Exercise07
 };

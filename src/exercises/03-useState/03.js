@@ -11,7 +11,7 @@ This is still under construction...
 /* 🌟 [00] - In this exercise we'll build an app that increments
      and decrements a counter by clicking the + and - buttons. */
 
-/* 🌟 [01] - Please note the numbering of the steps in this exercise
+/* 🌟 [01] - IMPORTANT: Please note the numbering of the steps in this exercise
       are not ordered from top to bottom! You can go to step [02] now ;) */
 
 export default function App() {
