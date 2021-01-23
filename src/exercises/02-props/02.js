@@ -25,6 +25,4 @@ export default function App() {
 
 /* 🌟 [05] - Let the `Greeting` component receive the `name` prop en render it after "Hello". */
 
-/* 🌟 [06] - Conditional rendering... */
-
-/* 🌟 [07] - FINISHED! 💯  You should see a heading "Exercise 2" and the text "Hello " followed by the value of the `name` prop". 💯 */
+/* 🌟 [06] - FINISHED! 💯  You should see a heading "Exercise 2" and the text "Hello " followed by the value of the `name` prop". 💯 */
