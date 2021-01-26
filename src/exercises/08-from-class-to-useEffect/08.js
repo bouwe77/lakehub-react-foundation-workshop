@@ -31,8 +31,11 @@ export default class App extends React.Component {
     this.setState({ ...this.state, counter: this.state.counter + 1 });
   };
 
-  componentDidUpdate() {
-    console.log("render...");
+
+  componentDidUpdate(prevProps, prevState) {
+    if (prevState.pokemons !== this.state.pokemons) {
+      console.log('pokemons state has changed.')
+    }
   }
 
   render() {
