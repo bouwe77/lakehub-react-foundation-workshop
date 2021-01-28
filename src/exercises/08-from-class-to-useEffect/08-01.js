@@ -22,7 +22,6 @@ export default class App extends React.Component {
   }
 
   keyPressed = (event) => {
-    console.log(event.keyCode);
     this.setState({ ...this.state, keyPressed: event.keyCode });
   };
 
