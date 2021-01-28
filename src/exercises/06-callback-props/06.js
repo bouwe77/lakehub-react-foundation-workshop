@@ -1,13 +1,6 @@
 import React, { useState } from "react";
 import styles from "../Exercise.module.css";
 
-/*
-┌─┐┬  ┌─┐┌─┐┌─┐┌─┐  ┌┬┐┌─┐  ┌┐┌┌─┐┌┬┐  ┬ ┬┌─┐┌─┐  ┬ ┬┌─┐┌┬┐
-├─┘│  ├┤ ├─┤└─┐├┤    │││ │  ││││ │ │   │ │└─┐├┤   └┬┘├┤  │ 
-┴  ┴─┘└─┘┴ ┴└─┘└─┘  ─┴┘└─┘  ┘└┘└─┘ ┴   └─┘└─┘└─┘   ┴ └─┘ ┴ 
-This is still under construction...
-*/
-
 /* 🌟 [00] - In this exercise we'll build an app where you can choose a text 
       to display. Displaying the text and choosing the text are done by different
       components so we lifted the text state to the parent component. The child component
