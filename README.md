@@ -16,7 +16,7 @@ In this workshop we'll cover the following topics:
 
 ## Getting Started
 
-1. Open the following CodeSandbox: ...
+1. Open the following CodeSandbox: https://codesandbox.io/s/github/bouwe77/lakehub-react-foundation-workshop
 
 2. Please find the exercises in the `src/exercises` folder.
 
