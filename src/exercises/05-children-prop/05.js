@@ -21,7 +21,7 @@ function Panel() {
   return <div className={styles.panel}></div>;
 }
 
-/* 🌟 [03] - Render another Panel component, but this time one that shows this image: */
+/* 🌟 [03] - In the App component above, render another Panel component, but this time one that shows this image: */
 /* 
   <img src="https://picsum.photos/id/2/200" alt="laptop" /> 
 */
