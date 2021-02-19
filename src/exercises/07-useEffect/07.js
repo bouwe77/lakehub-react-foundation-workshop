@@ -10,11 +10,20 @@ export default function App() {
   const [gifs, setGifs] = useState([]);
 
   useEffect(() => {
-    /* 🌟 [01] - Create an async function called fetch (or whatever you like). */
-    /* 🌟 [02] - Inside the fetch function, uncomment the line below to call the Giphy API. */
-    //const gifs = await getGifs(query);
-    /* 🌟 [03] - Inside the fetch function, update the gifs state with the gifs you got from the API. */
-    /* 🌟 [04] - Outside the fetch function, but inside the useEffect, call the fetch function. */
+    /* 🌟 [01] - Create an async function called fetch (or whatever you like). 
+    
+    */
+    /* 🌟 [02] - Inside the fetch function, uncomment the line below to call the Giphy API. 
+    
+      //const gifs = await getGifs(query);
+    
+    */
+    /* 🌟 [03] - Inside the fetch function, update the gifs state with the gifs you got from the API. 
+    
+    */
+    /* 🌟 [04] - Outside the fetch function, but inside the useEffect, call the fetch function. 
+    
+    */
   }, []); /* 🌟 [05] - Is this dependency array correct? In other words, does this useEffect have any dependencies? */
 
   return (
