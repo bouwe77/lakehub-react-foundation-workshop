@@ -37,3 +37,5 @@ export default function App() {
 }
 
 /* 🌟 [06] - FINISHED! 💯  You should see a few GIFs about "programming", or whatever the value of query is... 💯 */
+
+/* 🌟 [07] - BONUS EXERCISE! 💯  Make the query stateful with the useState hook and add a text input so the user can enter any search query. 💯 */
